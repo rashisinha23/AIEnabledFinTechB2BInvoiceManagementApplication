@@ -1,0 +1,12 @@
+.custom-datagrid .MuiCheckbox-root {
+    color: white; /* Set checkbox color to white */
+  }
+  
+  .custom-datagrid .MuiCheckbox-root.Mui-checked {
+    color: white; /* Set checked checkbox color to white */
+  }
+  
+  .custom-datagrid .MuiCheckbox-root:hover {
+    background-color: transparent; /* Set hover background color to transparent */
+    border-color: white; /* Set hover border color to white */
+  }
